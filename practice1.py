@@ -1,0 +1,10 @@
+#題目1
+event="車禍肇事判賠"
+sum_money=25688
+a_rate=0.3
+b_rate=0.7
+a_money=sum_money*a_rate
+b_money=sum_money*b_rate
+print("事件：",event)
+print("原告需賠償金額:",int(a_money),"元")
+print("被告需賠償金額:",int(b_money),"元")
