@@ -1,4 +1,3 @@
-#題目1
 event="車禍肇事判賠"
 sum_money=25688
 a_rate=0.3
