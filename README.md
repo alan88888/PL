@@ -25,8 +25,8 @@
 **E-mail**：41071133h@gapps.ntnu.edu.tw
 
 # 課程筆記區
->+ [**Week 1**]
->+ [**Week 2**]
+>+ **Week 1**
+>+ **Week 2**
 >+ **Week 3**
 >+ **Week 4**
 >+ **Week 5**
