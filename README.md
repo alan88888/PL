@@ -3,7 +3,7 @@
 
 
 # 目錄  
->+ [**1. 課程介紹** ](https://github.com/SAStommy/Web#課程介紹)
+>+ [**1. 課程介紹** ](https://github.com/alan88888/PL#課程介紹)
 >+ [**2. 自我介紹**](https://github.com/alan88888/PL#自我介紹)
 >+ [**3. 課程筆記區**](https://github.com/alan88888/PL#課程筆記區)
 >+ [**4. 作業連結區**](https://github.com/alan88888/PL#作業連結區)
