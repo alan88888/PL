@@ -9,7 +9,7 @@ import  jpype
 import  asposecells     
 jpype.startJVM() 
 from asposecells.api import Workbook
-'''
+
 num=1
 with open('沒有編號和水桶和公告和頁數版本.txt','w',encoding='utf-8') as t:
     while num<=100:
@@ -33,7 +33,7 @@ with open('沒有編號和水桶和公告和頁數版本.txt','w',encoding='utf-
                 continue
         num=num+1
         #time.sleep(1)
-'''
+
 workbook = Workbook("沒有編號和水桶和公告和頁數版本.txt");
 
 # save as JSON
