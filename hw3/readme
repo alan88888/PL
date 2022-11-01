@@ -1,1 +1,3 @@
-爬ppt版文，存成txt，並轉json再轉csv，跑不動記得pip3去載modules
+爬ppt版文，存成txt，並轉json再轉csv，我有用到workbook，跑不動記得pip3去載modules，下面是指令
+
+"pip3 install aspose-cells"
