@@ -49,6 +49,7 @@
 >+ **HW 2**  
 [json檔案查詢與排序-通識查詢](https://github.com/alan88888/PL/tree/main/hw2)
 >+ **HW 3**
+[爬蟲txt與他的json和csv檔案](https://github.com/alan88888/PL/tree/main/hw3)
 >+ **HW 4**
 >+ **HW 5**
 ---
