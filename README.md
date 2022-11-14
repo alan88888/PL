@@ -51,6 +51,7 @@
 >+ **HW 3**   
 [爬蟲txt與他的json和csv檔案](https://github.com/alan88888/PL/tree/main/hw3)
 >+ **HW 4**  
+[文字探勘教學](https://medium.com/@41071133h/%E9%A6%96%E5%85%88-%E6%88%91%E5%80%91%E9%9C%80%E8%A6%81import%E7%9A%84%E5%87%BD%E5%BC%8F%E5%BA%AB-d4f18fdb076f)  
 [文字分析與文字雲](https://github.com/alan88888/PL/tree/main/hw4)
 >+ **HW 5**
 ---
