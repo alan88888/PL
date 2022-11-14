@@ -1,3 +1,4 @@
 pip install jieba 
 pip install collection
 pip install wordcloud
+hw4.txt 內容可以自己改成自己想要的內容，我個人是丟了幾篇烏俄戰爭的新聞去分析
