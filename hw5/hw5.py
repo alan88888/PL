@@ -1,9 +1,9 @@
 import os
-#os.system("pip install scipy")
+os.system("pip install scipy")
 os.system("pip install plotly==5.11.0")
-#os.system("pip install networkx")
-#os.system("pip install jieba")
-#os.system("pip install matplotlib")
+os.system("pip install networkx")
+os.system("pip install jieba")
+os.system("pip install matplotlib")
 import jieba as jb
 import networkx as nx
 from collections import Counter
