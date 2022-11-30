@@ -53,7 +53,9 @@
 >+ **HW 4**  
 [文字探勘教學](https://medium.com/@41071133h/%E9%A6%96%E5%85%88-%E6%88%91%E5%80%91%E9%9C%80%E8%A6%81import%E7%9A%84%E5%87%BD%E5%BC%8F%E5%BA%AB-d4f18fdb076f)  
 [文字分析與文字雲](https://github.com/alan88888/PL/tree/main/hw4)
->+ **HW 5**
+>+ **HW 5**  
+[code](https://github.com/alan88888/PL/tree/main/hw5)  
+[文字共現](https://medium.com/@41071133h/%E6%96%87%E5%AD%97%E5%85%B1%E7%8F%BE-4f2ce28951e9)  
 ---
 
 # 專題連結區
